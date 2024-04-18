@@ -1,0 +1,265 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Acxiom\Abhishek Dheeman\Joylukkas\AxPOSWebReport\AxPOSWebReport\bin\app.publish\</_PublishTargetUrl>
+    <History>True|2023-05-15T17:33:19.0126053Z;True|2023-04-19T19:04:14.7942767+05:30;True|2023-04-18T22:24:53.6255701+05:30;True|2023-04-18T16:47:48.8744945+05:30;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="ApplicationInsights.config">
+      <publishTime>09/14/2019 15:06:50</publishTime>
+    </File>
+    <File Include="bin/ApplicationInsights.config">
+      <publishTime>09/14/2019 15:06:50</publishTime>
+    </File>
+    <File Include="bin/AxPOSWebReport.dll">
+      <publishTime>05/15/2023 23:03:12</publishTime>
+    </File>
+    <File Include="bin/AxPOSWebReport.pdb">
+      <publishTime>05/15/2023 23:03:12</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.Agent.Intercept.dll">
+      <publishTime>11/30/2016 16:07:42</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.DependencyCollector.dll">
+      <publishTime>12/07/2016 11:45:42</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.PerfCounterCollector.dll">
+      <publishTime>12/07/2016 11:50:34</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.ServerTelemetryChannel.dll">
+      <publishTime>12/06/2016 15:15:48</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.Web.dll">
+      <publishTime>12/07/2016 11:49:10</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.WindowsServer.dll">
+      <publishTime>12/07/2016 11:50:34</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ApplicationInsights.dll">
+      <publishTime>12/06/2016 15:09:52</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>06/15/2015 14:36:24</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ReportViewer.Common.dll">
+      <publishTime>06/02/2016 23:12:26</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ReportViewer.DataVisualization.dll">
+      <publishTime>06/02/2016 23:12:26</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ReportViewer.ProcessingObjectModel.dll">
+      <publishTime>06/02/2016 23:12:26</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ReportViewer.WebForms.dll">
+      <publishTime>05/29/2015 21:27:38</publishTime>
+    </File>
+    <File Include="bin/Microsoft.SqlServer.Types.dll">
+      <publishTime>04/21/2015 04:17:52</publishTime>
+    </File>
+    <File Include="bin/Microsoft.WindowsAzure.Storage.dll">
+      <publishTime>09/15/2018 06:36:20</publishTime>
+    </File>
+    <File Include="bin/Microsoft.WindowsAzure.Storage.pdb">
+      <publishTime>09/15/2018 06:04:24</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>04/02/2017 23:16:32</publishTime>
+    </File>
+    <File Include="bin/QRCoder.dll">
+      <publishTime>11/17/2020 22:27:42</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>06/19/2015 08:49:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>06/19/2015 08:49:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>06/19/2015 08:49:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>06/19/2015 08:49:44</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>06/19/2015 08:49:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>06/19/2015 08:49:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>06/19/2015 08:49:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>06/19/2015 08:49:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>06/19/2015 08:49:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>06/19/2015 08:49:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>06/19/2015 08:49:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>06/19/2015 08:49:46</publishTime>
+    </File>
+    <File Include="bin/SqlServerTypes/x64/msvcr100.dll">
+      <publishTime>04/05/2023 16:40:47</publishTime>
+    </File>
+    <File Include="bin/SqlServerTypes/x64/SqlServerSpatial120.dll">
+      <publishTime>04/05/2023 16:40:47</publishTime>
+    </File>
+    <File Include="bin/SqlServerTypes/x86/msvcr100.dll">
+      <publishTime>04/05/2023 16:40:47</publishTime>
+    </File>
+    <File Include="bin/SqlServerTypes/x86/SqlServerSpatial120.dll">
+      <publishTime>04/05/2023 16:40:47</publishTime>
+    </File>
+    <File Include="ErrorPage.aspx">
+      <publishTime>10/18/2019 19:33:18</publishTime>
+    </File>
+    <File Include="frmReportViewer.aspx">
+      <publishTime>04/18/2023 22:23:00</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>09/14/2019 15:06:08</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>04/07/2023 18:30:09</publishTime>
+    </File>
+    <File Include="PostData.aspx">
+      <publishTime>02/27/2021 20:21:54</publishTime>
+    </File>
+    <File Include="PrintDocuments.aspx">
+      <publishTime>02/12/2020 11:41:12</publishTime>
+    </File>
+    <File Include="Report/AdvanceReceipt.rdl">
+      <publishTime>03/30/2021 21:51:02</publishTime>
+    </File>
+    <File Include="Report/AdvanceReceiptOffer.rdl">
+      <publishTime>03/29/2021 13:33:58</publishTime>
+    </File>
+    <File Include="Report/AnalysisReport.rdl">
+      <publishTime>03/16/2021 12:35:00</publishTime>
+    </File>
+    <File Include="Report/BrandWiseClosingStock.rdl">
+      <publishTime>03/16/2021 12:35:00</publishTime>
+    </File>
+    <File Include="Report/CashDailySummaryReport.rdl">
+      <publishTime>03/16/2021 12:35:00</publishTime>
+    </File>
+    <File Include="Report/FinalEstimate.rdl">
+      <publishTime>08/13/2021 16:07:50</publishTime>
+    </File>
+    <File Include="Report/Form60.rdl">
+      <publishTime>03/31/2021 00:23:20</publishTime>
+    </File>
+    <File Include="Report/Insurance.rdl">
+      <publishTime>04/09/2021 14:52:06</publishTime>
+    </File>
+    <File Include="Report/Invoice.rdl">
+      <publishTime>09/14/2019 15:48:34</publishTime>
+    </File>
+    <File Include="Report/PurchaseInvoiceDiamond.rdl">
+      <publishTime>05/23/2020 18:07:34</publishTime>
+    </File>
+    <File Include="Report/PurchaseInvoiceGold.rdl">
+      <publishTime>05/23/2020 17:24:04</publishTime>
+    </File>
+    <File Include="Report/RoughEstimate.rdl">
+      <publishTime>07/23/2021 13:32:50</publishTime>
+    </File>
+    <File Include="Report/SaleReturnDiamond.rdl">
+      <publishTime>05/22/2020 19:34:50</publishTime>
+    </File>
+    <File Include="Report/SaleReturnGold.rdl">
+      <publishTime>05/22/2020 19:39:14</publishTime>
+    </File>
+    <File Include="Report/SalesInvoice.rdl">
+      <publishTime>04/03/2023 16:16:51</publishTime>
+    </File>
+    <File Include="Report/SalesInvoiceGST.rdl">
+      <publishTime>02/21/2018 14:04:28</publishTime>
+    </File>
+    <File Include="Report/SalesInvoiceQR.rdl">
+      <publishTime>04/11/2023 15:34:50</publishTime>
+    </File>
+    <File Include="Report/SalesInvoiceWithoutCompliments.rdl">
+      <publishTime>03/24/2022 13:17:40</publishTime>
+    </File>
+    <File Include="Report/SchemeReceipt.rdl">
+      <publishTime>08/10/2021 17:57:10</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.js">
+      <publishTime>11/09/2019 15:36:22</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.min.js">
+      <publishTime>11/09/2019 15:36:22</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.11.1.min.js">
+      <publishTime>01/26/2020 10:53:34</publishTime>
+    </File>
+    <File Include="Scripts/jquery-3.3.1.js">
+      <publishTime>11/09/2019 15:36:24</publishTime>
+    </File>
+    <File Include="Scripts/jquery-3.3.1.min.js">
+      <publishTime>11/09/2019 15:36:24</publishTime>
+    </File>
+    <File Include="Scripts/jquery-3.3.1.min.map">
+      <publishTime>11/09/2019 15:36:24</publishTime>
+    </File>
+    <File Include="Scripts/jquery-3.3.1.slim.js">
+      <publishTime>11/09/2019 15:36:24</publishTime>
+    </File>
+    <File Include="Scripts/jquery-3.3.1.slim.min.js">
+      <publishTime>11/09/2019 15:36:22</publishTime>
+    </File>
+    <File Include="Scripts/jquery-3.3.1.slim.min.map">
+      <publishTime>11/09/2019 15:36:22</publishTime>
+    </File>
+    <File Include="Scripts/jquery-ui.min.js">
+      <publishTime>01/26/2020 10:52:20</publishTime>
+    </File>
+    <File Include="Scripts/jquery.min.js">
+      <publishTime>01/26/2020 10:44:20</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.js">
+      <publishTime>11/09/2019 15:36:40</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.min.js">
+      <publishTime>11/09/2019 15:36:40</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.unobtrusive.js">
+      <publishTime>11/09/2019 15:36:40</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.unobtrusive.min.js">
+      <publishTime>11/09/2019 15:36:40</publishTime>
+    </File>
+    <File Include="Scripts/modernizr-2.8.3.js">
+      <publishTime>11/09/2019 15:36:36</publishTime>
+    </File>
+    <File Include="SqlServerTypes/readme.htm">
+      <publishTime>04/05/2023 16:40:45</publishTime>
+    </File>
+    <File Include="SqlServerTypes/x64/msvcr100.dll">
+      <publishTime>04/05/2023 16:40:47</publishTime>
+    </File>
+    <File Include="SqlServerTypes/x64/SqlServerSpatial120.dll">
+      <publishTime>04/05/2023 16:40:47</publishTime>
+    </File>
+    <File Include="SqlServerTypes/x86/msvcr100.dll">
+      <publishTime>04/05/2023 16:40:47</publishTime>
+    </File>
+    <File Include="SqlServerTypes/x86/SqlServerSpatial120.dll">
+      <publishTime>04/05/2023 16:40:47</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>05/15/2023 23:03:13</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

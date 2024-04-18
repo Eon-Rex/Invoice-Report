@@ -1,0 +1,91 @@
+﻿.header {
+    text-align: -webkit-center;
+    padding-top: 8%;
+}
+.row {
+    padding-bottom: 3px;
+}
+
+.Storeinfo {
+       padding: 2% 0% 0% 2%;
+}
+.required::after 
+{
+    content: ":";
+      
+}
+span.required.saleperson {
+    padding-left: 13px;
+}
+span.required.GSTIn {
+        padding-left: 79px;
+}
+span.required.Name {
+    padding-left: 88px;
+}
+span.required.Address {
+    padding-left: 74px;
+}
+span#lbladdress2 {
+    padding-left: 136px;
+}
+span.required.invoiceno {
+    padding-left: 19px;
+}
+span.required.invoicedate {
+    padding-left: 26px;
+}
+table.Details {
+    padding-top: 1%;
+}
+.ReceiverDetails {
+    padding-left: 1%;
+   
+}
+span.required.Mob {
+    padding-left: 96px;
+}
+span.required.State {
+    padding-left: 94px;
+}
+
+span.required.StateCode {
+    padding-left: 56px;
+}
+span.required.RecGSTIn {
+    padding-left: 46px;
+}
+span.required.PAN {
+    padding-left: 73px;
+}
+.ShippedDetails {
+    padding-left: 14%;
+}
+.invoice.Line {
+    padding: 11px 0px 11px 11px;
+}
+fieldset {
+    height: 200px;
+}
+
+.amtinword {
+    padding-left: 11px;
+        width: 484px;
+
+}
+.tendergrid {
+    float: right;
+}
+.sign
+{
+    float: right;
+}
+td.taxgdTd {
+       width: 761px;
+}
+td.signtd {
+    width: 26%;
+}
+table.footer {
+    padding: 1% 0 0 1%;
+}
